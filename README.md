@@ -10,5 +10,6 @@ A pontuação obtida em cada arquivo está comentada no início de cada código.
 
 ## Resumo da competição
 
--   Fase 1
+-   **Modalidade:** Programação Nível 2
+-   **Fase 1**
     -   Pontuação: 300/400
