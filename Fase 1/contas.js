@@ -1,3 +1,5 @@
+// Pontuação: 100/100
+
 var v, c, min, i, con;
 c = [];
 scanf("%d%d%d%d","v","c[0]","c[1]","c[2]");
