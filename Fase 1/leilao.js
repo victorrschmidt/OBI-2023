@@ -1,3 +1,5 @@
+// Pontuação: 100/100
+
 var n, c, v, i, C, V;
 scanf("%d","n");
 c = [];
