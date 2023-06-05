@@ -1,3 +1,5 @@
+// Pontuação: 100/100
+
 var m, n, v, p, l, i, j, ven;
 v = [];
 ven = 0;
