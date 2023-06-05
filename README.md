@@ -6,4 +6,5 @@ Este repositório contém as submissões feitas para a OBI-2023, Modalidade Prog
 
 ## Resumo da competição
 
-Fase 1 => Pontuação: 300/400
+-   Fase 1
+    -   Pontuação: 300/400
