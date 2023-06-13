@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://olimpiada.ic.unicamp.br/#gh-dark-mode-only">
-    <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg#gh-dark-mode-only" width="500">
+  <a href="https://olimpiada.ic.unicamp.br#gh-dark-mode-only">
+    <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg" width="500">
   </a>
-  <a href="https://olimpiada.ic.unicamp.br/#gh-light-mode-only">
-    <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg#gh-light-mode-only" width="500">
+  <a href="https://olimpiada.ic.unicamp.br#gh-light-mode-only">
+    <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg" width="500">
   </a>
 </p>
 
