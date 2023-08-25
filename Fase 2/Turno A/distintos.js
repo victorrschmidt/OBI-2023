@@ -7,7 +7,7 @@ while(n--){
   scanf("%d","v");
   aux.push(v); 
    
-  if(rep.has(v)){ // 2 1 3 4 1 
+  if(rep.has(v)){ 
     rep.clear(); 
     while(aux[0] != v){
       aux.shift();
@@ -16,7 +16,7 @@ while(n--){
     rep = new Set(aux); 
   }
   else{
-    rep.add(v); // 2 1 3 4 1
+    rep.add(v); 
     max = Math.max(max,rep.size);
   }
 }
