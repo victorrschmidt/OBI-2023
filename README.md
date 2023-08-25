@@ -18,3 +18,6 @@ A pontuação obtida em cada arquivo está comentada no início de cada código.
 -   **Modalidade:** Programação Nível 2
 -   **Fase 1**
     -   Pontuação: 300/400
+-  **Fase 2**
+    -   Pontuação (Turno A): 239/400
+    -   Pontuação (Turno B): 125/400
