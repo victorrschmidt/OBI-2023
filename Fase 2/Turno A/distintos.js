@@ -7,7 +7,7 @@ while(n--){
   scanf("%d","v");
   aux.push(v); 
    
-  if(rep.has(v)){ 
+  if(rep.has(v)){
     rep.clear(); 
     while(aux[0] != v){
       aux.shift();
