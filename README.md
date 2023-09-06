@@ -1,10 +1,10 @@
 <p align="center">
-	<a href="https://olimpiada.ic.unicamp.br#gh-dark-mode-only">
-    	<img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg" width="500">
-  	</a>
-  	<a href="https://olimpiada.ic.unicamp.br#gh-light-mode-only">
-    	<img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg" width="500">
-  	</a>
+    <a href="https://olimpiada.ic.unicamp.br#gh-dark-mode-only">
+        <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg" width="500">
+    </a>
+    <a href="https://olimpiada.ic.unicamp.br#gh-light-mode-only">
+        <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg" width="500">
+    </a>
 </p>
 
 # Sobre
@@ -17,14 +17,14 @@ A pontuação obtida em cada problema está comentada no início de cada código
 
 - **Modalidade:** Programação Nível 2
 - **Fase 1**
-	- **[Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%201)**
+    - **[Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%201)**
     - **Pontuação:** *300/400*
 - **Fase 2**
-	- **Turno A**
-    	- **[Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%202/Turno%20A)**
+    - **Turno A**
+        - **[Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%202/Turno%20A)**
         - **Pontuação:** *239/400*
     - **Turno B**
         - **[Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%202/Turno%20B)**
         - **Pontuação:** *125/400*
 - **Fase 3**
-	- ...
+    - ...
