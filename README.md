@@ -17,7 +17,14 @@ A pontuação obtida em cada arquivo está comentada no início de cada código.
 
 -   **Modalidade:** Programação Nível 2
 -   **Fase 1**
+    -   [Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%201)
     -   Pontuação: 300/400
 -  **Fase 2**
-    -   Pontuação (Turno A): 239/400
-    -   Pontuação (Turno B): 125/400
+    -   Turno A
+        - [Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%202/Turno%20A)
+        - Pontuação: 239/400
+    -   Turno B
+        - [Submissões](https://github.com/victorrschmidt/OBI-2023/tree/main/Fase%202/Turno%20B)
+        - Pontuação: 125/400
+- **Fase 3**
+    ...
