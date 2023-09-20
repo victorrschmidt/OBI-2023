@@ -1,10 +1,8 @@
 <p align="center">
-    <a href="https://olimpiada.ic.unicamp.br#gh-dark-mode-only">
-        <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg" width="500">
-    </a>
-    <a href="https://olimpiada.ic.unicamp.br#gh-light-mode-only">
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)" srcset="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg">
         <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg" width="500">
-    </a>
+    </picture>
 </p>
 
 # Sobre
