@@ -2,6 +2,7 @@
     <a href="https://olimpiada.ic.unicamp.br">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg">
             <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2023-preto.svg" width="500" alt="obi-logo">
         </picture>
     </a>
