@@ -26,4 +26,5 @@ A pontuação obtida em cada problema está comentada no início de cada arquivo
         - **[Submissões](Fase%202/Turno%20B)**
         - **Pontuação:** _125/400_
 - **Fase 3**
-    - ...
+    - **[Submissões](Fase%203)**
+    - **Pontuação:** _138/500_
