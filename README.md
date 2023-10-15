@@ -16,16 +16,16 @@ A pontuação obtida em cada problema está comentada no início de cada arquivo
 
 - **Modalidade:** Programação Nível 2
 - **Colocação:** _Indefinida_
-- **Fase local**
+- **Fase 1**
     - [**Submissões**](Fase%201)
     - **Pontuação:** _300/400_
-- **Fase estadual**
+- **Fase 2**
     - **Turno A**
         - [**Submissões**](Fase%202/Turno%20A)
         - **Pontuação:** _239/400_
     - **Turno B**
         - [**Submissões**](Fase%202/Turno%20B)
         - **Pontuação:** _125/400_
-- **Fase nacional**
+- **Fase 3**
     - [**Submissões**](Fase%203)
     - **Pontuação:** _138/500_
