@@ -15,7 +15,7 @@ A pontuação obtida em cada problema está comentada no início de cada arquivo
 # Resumo
 
 - **Modalidade:** Programação Nível 2
-- **Colocação:** 69° lugar de 14.549 competidores
+- **Colocação:** 70° lugar de 5.263 competidores
 - **Fase 1**
     - [**Submissões**](Fase%201)
     - **Pontuação:** _300/400_
