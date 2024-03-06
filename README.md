@@ -10,14 +10,12 @@
 
 Este repositório contém as submissões das provas da Olimpíada Brasileira de Informática de 2023, onde participei pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande. 
 
-A pontuação obtida em cada problema está comentada no início de cada arquivo.
+A pontuação obtida em cada exercício está comentada no início de cada arquivo.
 
 # Resumo
 
 - **Modalidade:** Programação Nível 2
-- **Colocação:**
-    - **Nacional:** 70° lugar de 5.263 competidores
-    - **Estadual:** 3° lugar de 235 competidores
+- **Colocação:** 70° lugar de 5.263 competidores
 - **Fase 1**
     - [**Submissões**](Fase%201)
     - **Pontuação:** _300/400_
